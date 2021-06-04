@@ -1,0 +1,54 @@
+h1 {
+    color: Red ; font-family: 'Times New Roman', Times, serif;
+}
+.Header{
+    background-color: aquamarine; border: blue;
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+   
+}
+
+.Sub-header{
+    background-color: chocolate; 
+    flex-wrap: wrap;
+    justify-content: space-around;
+
+}
+.Camel {
+    background-color: rgb(158, 130, 111); 
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+
+.Chameleon{
+    background-color:rgb(131, 224, 224); 
+    flex-wrap: nowrap;
+    justify-content: space-evenly;
+}
+.Pigeon{
+    background-color: rgb(184, 184, 184); 
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+.Teddy-bear{
+    background-color:antiquewhite; 
+    flex-wrap: nowrap;
+    justify-content: space-evenly;
+}
+.Panda{
+    background-color:rgb(184, 184, 184); 
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+.Flying-cicada{
+    background-color: blanchedalmond; 
+    flex-wrap: nowrap;
+    justify-content: space-evenly;
+}
+.Origami{
+    background-color: aquamarine; border: blue;
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
